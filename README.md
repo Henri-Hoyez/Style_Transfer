@@ -73,3 +73,10 @@ A script display a matrix with all the results according to the different styles
 
 ## Results 
 
+  - Style image
+  
+ ![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/imgs/imgs/1.jpg)
+  
+  - Input image
+
+![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/img3.jpg)
