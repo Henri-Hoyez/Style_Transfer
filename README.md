@@ -1,7 +1,7 @@
-### Style_Transfer
+# Style_Transfer
 
 
-# Style Transfert Principe
+## Style Transfert Principe
 
 The principle of the style transfer is the following one:
   - We take 3 images : the style image, the content image and the input image
@@ -12,23 +12,23 @@ According to the weight we will attribute to the style or content image, we will
 
 ![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/img2.jpg)
 
-# Loss Funcitons
+## Loss Funcitons
 
-# Distances
+## Distances
 
-# Content loss
+## Content loss
 
-# Style loss
+## Style loss
 
-# Employed method
+## Employed method
 
-# Data collection
+## Data collection
 
-# Computing part
+## Computing part
 
-# Find the best combinations
+## Find the best combinations
 
 ![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/Image1.png)
 
-# Results 
+## Results 
 
