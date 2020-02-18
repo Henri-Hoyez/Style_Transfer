@@ -45,11 +45,29 @@ Make this computation with several layers to increase the precision 
 
 ## Employed method
 
+Classic Machine Meanring method
+  - Data aquisition
+  - Computing part
+  - Results
+
+
 ## Data collection
+
+We wrote an Instagram Scrapper to collect our images without signing in
+We download few images in full size
+Automatic scroll on the page before you signing in
 
 ## Computing part
 
+ - Classic Classifier (VGG19)
+ - Training loop
+- Feed our classifier with the content and style image
+- Compute the content and the style loss
+- Backpropagate on our input image using LBFGS optimizer
+
 ## Find the best combinations
+
+A script display a matrix with all the results
 
 ![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/Image1.png)
 
