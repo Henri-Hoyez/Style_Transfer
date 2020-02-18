@@ -10,7 +10,7 @@ The principle of the style transfer is the following one:
 The input image is the combination of the style image and the content image
 According to the weight we will attribute to the style or content image, we will have a different result.
 
-![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/img2.png)
+![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/img2.jpg)
 
 # Loss Funcitons
 
