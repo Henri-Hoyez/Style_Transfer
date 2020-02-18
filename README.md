@@ -14,11 +14,34 @@ According to the weight we will attribute to the style or content image, we will
 
 ## Loss Funcitons
 
+The loss is here to reduce distance between styles and contents
+
+For that, we define 2 loss functions :
+  - The Content loss 
+  - The Style loss
+
+We will try to minimize these 2 weighted losses
+
 ## Distances
+
+It define the similarities between datas
+Very important machine learning notion
 
 ## Content loss
 
+We fed our model with our input image and our content image
+We take, for each image, our model output features
+We compute the mean square error between those features map
+
+
 ## Style loss
+
+Weighted representation of the style difference between our input and style image
+Compute the gram matrix of our feature layers
+Compute the gram matrix of our style image feature
+Compute the mean square error between them
+Make this computation with several layers to increase the precision 
+
 
 ## Employed method
 
