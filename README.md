@@ -67,7 +67,7 @@ Automatic scroll on the page before you signing in
 
 ## Find the best combinations
 
-A script display a matrix with all the results
+A script display a matrix with all the results according to the different styles
 
 ![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/Image1.png)
 
