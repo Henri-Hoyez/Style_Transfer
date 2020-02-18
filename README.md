@@ -21,4 +21,6 @@
 
 # Find the best combinations
 
+![photo](https://github.com/Henri-Hoyez/Style_Transfer/blob/master/results/Image1.png)
+
 # Results 
